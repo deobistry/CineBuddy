@@ -1,0 +1,17 @@
+# Core dependencies
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+nltk==3.8.1
+requests==2.31.0
+
+# Web server
+flask==2.3.3
+flask-cors==4.0.0
+
+# For handling environment variables (optional)
+python-dotenv==1.0.0
+
+
+venv\Scripts\activate
+python api\movie_recommender.py
