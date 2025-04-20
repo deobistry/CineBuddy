@@ -46,6 +46,16 @@ It combines powerful NLP techniques with real-time movie data from TMDB to under
 
 ---
 
+## 📷 Screenshots
+
+```
+
+![Screenshot (39)](https://github.com/user-attachments/assets/4d84e0a3-5385-40c6-8834-dc3fc989cdd1)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/cba62f42-e991-4a8e-b008-9af8ff1faeeb)
+
+
+
 ## 📁 Project Structure
 
 ```
