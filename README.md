@@ -195,7 +195,7 @@ Each entry includes:
 
 ```
 CineBuddy - A Movie Recommendation System Using NLP
-Copyright (C) 2025  [Your Name]
+Copyright (C) 2025  Divyanshu Bansal
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published
