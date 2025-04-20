@@ -22,6 +22,13 @@ It combines powerful NLP techniques with real-time movie data from TMDB to under
 ✅ 📊 Realtime filter data & dataset stats
 
 ---
+📷 Screenshots
+---
+![image alt](https://github.com/deobistry/CineBuddy/blob/1a188a9245724117b4a522f051f02f62e022a996/Screenshot%20(38).png)
+![image alt](https://github.com/deobistry/CineBuddy/blob/1a188a9245724117b4a522f051f02f62e022a996/Screenshot%20(39).png)
+
+---
+
 
 ## 🧠 How It Works
 
